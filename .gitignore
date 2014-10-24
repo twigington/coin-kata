@@ -8,5 +8,5 @@ pom.xml.asc
 /.lein-*
 /.nrepl-port
 
-test/coin_kata/core_test.clj
+/.idea
 coin_kata.iml
